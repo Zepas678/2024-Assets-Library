@@ -1,4 +1,4 @@
-# 🏛️ The School of Oblivion - 3D Assets Library
+# 🏛️ The School of Oblivion - 3D Assets Library 
 
 Este repositorio contiene la biblioteca completa de modelos 3D, texturas y recursos visuales desarrollados para el proyecto **The School of Oblivion**. El objetivo de este espacio es centralizar el arte del juego, asegurando una correcta gestión de mallas y materiales.
 
